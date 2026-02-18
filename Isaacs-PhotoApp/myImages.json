@@ -1,0 +1,64 @@
+{
+    "images":[
+        {
+          "imgPath": "img/myImages/maxresdefault.jpg",
+            "imgLocation": "California",
+            "description": "No drama music video",
+            "date": "01/20/2022"   
+        },
+        {
+              "imgPath": "img/myImages/hq720.jpg",
+            "imgLocation": "Chicago",
+            "description": "Cloudy Sky Music video",
+            "date": "04/07/2024" 
+        },
+        {
+              "imgPath": "img/myImages/juice.jpg",
+            "imgLocation": "California",
+            "description": "Robbery Music video",
+            "date": "02/14/2019" 
+        },
+        {
+              "imgPath": "img/myImages/scorey.jpg",
+            "imgLocation": " outdoor urban settings",
+            "description": "No drama music video",
+            "date": "01/12/2023" 
+        },
+        {
+              "imgPath": "img/myImages/badbunny.jpg",
+            "imgLocation": " New York city",
+            "description": "Tit Me Pregunto Music video",
+            "date": "06/01/2022" 
+        },
+        {
+              "imgPath": "img/myImages/laroi.jpg",
+            "imgLocation": "Los Angeles",
+            "description": "How DOES IT FEEL Music video",
+            "date": "06/19/2025" 
+        },
+        {
+              "imgPath": "img/myImages/e85.jpg",
+            "imgLocation": " The Highway",
+            "description": "e85 music video",
+            "date": "01/29/2026" 
+        },
+        {
+              "imgPath": "img/myImages/roddywave.jpg",
+            "imgLocation": " Graveyard",
+            "description": "Tombstone Music video",
+            "date": "03/23/2021" 
+        },
+        {
+              "imgPath": "img/myImages/ellamai.jpg",
+            "imgLocation": " Office space",
+            "description": "Tell Her Music video",
+            "date": "09/12/2025" 
+        },
+        {
+              "imgPath": "img/myImages/fridayy.jpg",
+            "imgLocation": " movie theatre",
+            "description": "death do us part",
+            "date": "12/12/2025" 
+        }
+    ]
+}
