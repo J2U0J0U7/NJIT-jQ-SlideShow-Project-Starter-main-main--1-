@@ -22,7 +22,8 @@ $(document).ready(() => {
 
 // Function to fetch JSON data and store it in mImages
 function fetchJSON () {
-  // Use $.getJSON here to request the JSON data from mUrl
+$.getJSON('myImages.json', function(data))
+
   // On success, parse the JSON and push each image object into mImages array
   // After JSON is loaded, call swapPhoto() to display the first image
 }
